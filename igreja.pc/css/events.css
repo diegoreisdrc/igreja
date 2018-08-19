@@ -1,0 +1,19 @@
+.lado-1 {
+	height: 1550px;
+	background-color: rgba(249,250,252,0);
+	box-shadow: none;
+	display: flex;
+	flex-flow: row wrap;
+	text-align: center;
+	justify-content: center;
+}
+
+.eve {
+	margin: 5px;
+	display: flex;
+	width: 44%;
+	height: 380px;
+	background-color: rgba(187,183,183,.8);
+	box-shadow: -1px -1px 1.5px 1.5px #898a8b;
+}
+
